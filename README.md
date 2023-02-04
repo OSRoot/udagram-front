@@ -1,1 +1,0 @@
-# udagram-front
